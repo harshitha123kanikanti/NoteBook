@@ -1,0 +1,7 @@
+Intrapolation and extrapolation,
+types of analytics,
+sample distribution,
+market basket analysis,
+prediction modelling,
+knowledge pyramid, 
+ANN
